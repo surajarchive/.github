@@ -1,12 +1,18 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
+I'm **Suraj Vishwakarma**, a full-stack developer based in Bangalore, India.
 
-**Here are some ideas to get you started:**
+All the repositories in this GitHub organization — **[whateverui](https://github.com/whateverui)** — are **archived projects** from my early learning days. These were built while I was exploring new tech through project-based learning — so expect a mix of incomplete, experimental, and fun-but-silly ideas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I've moved them here to keep things organized and transparent. While they’re not all polished, they might still help someone learning or looking for ideas — feel free to explore!
+
+🔗 For all my active and current projects, check out my main GitHub profile: [**@smartcraze**](https://github.com/smartcraze)
+
+🧠 Currently learning:
+
+* **Rust for backend development**
+* **Web3 fundamentals**
+* Deep diving into **DevOps**, **Docker**, and **Kubernetes**
+* Practicing **DSA** and preparing for upcoming placement drives
+
+Thanks for stopping by!
